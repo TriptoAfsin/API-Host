@@ -1,5 +1,4 @@
 {
-    "contributors": [
         {
             "id":1,
             "name": "Akib",
@@ -21,5 +20,5 @@
             "batch": "44",
             "contribution": "100"
         }
-    ]
+    
 }
