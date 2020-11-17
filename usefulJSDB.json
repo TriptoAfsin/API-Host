@@ -46,5 +46,11 @@
         "about":"Simple yet flexible JavaScript charting for designers & developers",
         "link": "https://www.chartjs.org/",
         "terms":"chart graphic pie"
+    },
+    {
+        "name":"Animate.css",
+        "about":"Just-add-water CSS animations",
+        "link": "https://animate.style/",
+        "terms":"animate graphic css motion"
     }
 ]
