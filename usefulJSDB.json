@@ -1,12 +1,12 @@
 [
     {
-        "name":"howler.js",
+        "name":"Howler.js",
         "about":"Audio library for the modern web.howler.js makes working with audio in JavaScript easy and reliable across all platforms.",
         "link": "https://howlerjs.com/",
         "terms":"howler audio webaudio"
     },
     {
-        "name":"reveal.js",
+        "name":"Reveal.js",
         "about":"reveal.js is an open source HTML presentation framework. It's a tool that enables anyone with a web browser to create fully-featured and beautiful presentations for free.",
         "link": "https://revealjs.com/",
         "terms":"reveal presentation"
@@ -18,13 +18,13 @@
         "terms":"video html5"
     },
     {
-        "name":"particles.js",
+        "name":"Particles.js",
         "about":"A lightweight JavaScript library for creating particles",
         "link": "https://vincentgarreau.com/particles.js/",
         "terms":"particle animation"
     },
     {
-        "name":"highlight.js",
+        "name":"Highlight.js",
         "about":"A lib to hightlight codes in html(Color, Indentation)",
         "link": "https://highlightjs.org/usage/",
         "terms":"highlinght coding"
@@ -52,5 +52,11 @@
         "about":"Just-add-water CSS animations",
         "link": "https://animate.style/",
         "terms":"animate graphic css motion"
+    },
+    {
+        "name":"Sweetalert2",
+        "about":"A BEAUTIFUL, RESPONSIVE, CUSTOMIZABLE, ACCESSIBLE (WAI-ARIA) REPLACEMENT FOR JAVASCRIPT'S POPUP BOXES",
+        "link": "https://sweetalert2.github.io/",
+        "terms":"alert graphic css motion"
     }
 ]
