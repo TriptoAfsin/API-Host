@@ -48,15 +48,15 @@
         "terms":"chart graphic pie"
     },
     {
-        "name":"Animate.css",
-        "about":"Just-add-water CSS animations",
-        "link": "https://animate.style/",
-        "terms":"animate graphic css motion"
-    },
-    {
         "name":"Sweetalert2",
         "about":"A BEAUTIFUL, RESPONSIVE, CUSTOMIZABLE, ACCESSIBLE (WAI-ARIA) REPLACEMENT FOR JAVASCRIPT'S POPUP BOXES",
         "link": "https://sweetalert2.github.io/",
         "terms":"alert graphic css motion"
+    },
+    {
+        "name":"Animate.css",
+        "about":"Just-add-water CSS animations",
+        "link": "https://animate.style/",
+        "terms":"animate graphic css motion"
     }
 ]
