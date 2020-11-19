@@ -1,5 +1,11 @@
 [
     {
+        "name":"Lodash",
+        "about":"A modern JavaScript utility library delivering modularity, performance & extras.",
+        "link": "https://lodash.com/",
+        "terms":"loadash modular function"
+    },
+    {
         "name":"Howler.js",
         "about":"Audio library for the modern web.howler.js makes working with audio in JavaScript easy and reliable across all platforms.",
         "link": "https://howlerjs.com/",
@@ -49,7 +55,7 @@
     },
     {
         "name":"Sweetalert2",
-        "about":"A BEAUTIFUL, RESPONSIVE, CUSTOMIZABLE, ACCESSIBLE (WAI-ARIA) REPLACEMENT FOR JAVASCRIPT'S POPUP BOXES",
+        "about":"A Beautiful, Responsive, Customizable, Accessible (Wai-aria) Replacement For Javascript's Popup Boxes",
         "link": "https://sweetalert2.github.io/",
         "terms":"alert graphic css motion"
     },
@@ -58,5 +64,23 @@
         "about":"Just-add-water CSS animations",
         "link": "https://animate.style/",
         "terms":"animate graphic css motion"
+    },
+    {
+        "name":"SheetJS",
+        "about":"Read, edit, and export spreadsheets Works in web browsers and servers",
+        "link": "https://sheetjs.com/",
+        "terms":"spreadsheet excel xlss sheet office"
+    },
+    {
+        "name":"jsPDF",
+        "about":"The leading HTML5 client solution for generating PDFs. Perfect for event tickets, reports, certificates, you name it!",
+        "link": "https://parall.ax/products/jspdf",
+        "terms":"pdf document office"
+    },
+    {
+        "name":"CADViewer JS",
+        "about":"CADViewer JS is an web infrastructure component developed by Tailor Made Software that allows you to plug in CAD and other high resolution floorplans",
+        "link": "https://www.cadviewer.com/cv-js_api/index_cvjs_20_viewing.html",
+        "terms":"cad 3d"
     }
 ]
