@@ -66,6 +66,24 @@
         "terms":"animate graphic css motion"
     },
     {
+        "name":"Anime.js",
+        "about":"Anime.js (/ˈæn.ə.meɪ/) is a lightweight JavaScript animation library with a simple, yet powerful API",
+        "link": "https://animejs.com/",
+        "terms":"animate graphic css motion anime"
+    },
+    {
+        "name":"Three.js",
+        "about":"Three.js is a lightweight cross-browser JavaScript library/API used to create and display animated 3D computer graphics on a Web browser. Three.js scripts may be used in conjunction with the HTML5 canvas element, SVG or WebGL. ",
+        "link": "https://threejs.org/",
+        "terms":"3d three webgl"
+    },
+    {
+        "name":"Pixi.js",
+        "about":"Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.",
+        "link": "https://www.pixijs.com/",
+        "terms":"2d pixie webgl"
+    },
+    {
         "name":"SheetJS",
         "about":"Read, edit, and export spreadsheets Works in web browsers and servers",
         "link": "https://sheetjs.com/",
