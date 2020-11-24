@@ -84,6 +84,24 @@
         "terms":"2d pixie webgl"
     },
     {
+        "name":"Ztext.js",
+        "about":"Easy to implement, 3D typography for the web. Works with every font.",
+        "link": "https://bennettfeely.com/ztext/",
+        "terms":"typography 3d font text"
+    },
+    {
+        "name":"ran­dom­Color",
+        "about":"A color gen­er­a­tor for JavaScript.",
+        "link": "https://randomcolor.lllllllllllllllll.com/",
+        "terms":"color random generator"
+    },
+    {
+        "name":"Pattern.css",
+        "about":"CSS only library to fill your empty background with beautiful patterns. ",
+        "link": "https://bansal.io/pattern-css",
+        "terms":"pattern background"
+    },
+    {
         "name":"SheetJS",
         "about":"Read, edit, and export spreadsheets Works in web browsers and servers",
         "link": "https://sheetjs.com/",
