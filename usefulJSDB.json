@@ -101,11 +101,18 @@
         "link": "https://bansal.io/pattern-css",
         "terms":"pattern background"
     },
+
     {
         "name":"SheetJS",
         "about":"Read, edit, and export spreadsheets Works in web browsers and servers",
         "link": "https://sheetjs.com/",
         "terms":"spreadsheet excel xlss sheet office"
+    },
+    {
+        "name":"CountUp.js",
+        "about":"CountUp.js is a dependency-free, lightweight JavaScript class that can be used to quickly create animations that display numerical data in a more interesting way.",
+        "link": "https://inorganik.github.io/countUp.js/",
+        "terms":"counter countup autocount"
     },
     {
         "name":"jsPDF",
