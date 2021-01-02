@@ -128,8 +128,14 @@
     },
     {
         "name":"List.js",
-        "about":"iny, invisible and simple, yet powerful and incredibly fast vanilla JavaScript that adds search",
+        "about":"tiny, invisible and simple, yet powerful and incredibly fast vanilla JavaScript that adds search",
         "link": "https://listjs.com/",
         "terms":"list search"
+    },
+    {
+        "name":"Day.js",
+        "about":"Fast 2kB alternative to Moment.js with the same modern API",
+        "link": "https://day.js.org/",
+        "terms":"day date time momemt"
     }
 ]
