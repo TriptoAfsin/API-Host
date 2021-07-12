@@ -3,48 +3,56 @@
         "name":"Cloud Lib",
         "about":"Cloud lib is an open collaborative project for better educational content distribution",
         "link": "https://triptoafsin.github.io/Cloud-Lib-React/",
+        "techUsed": ["React", "CSS"],
         "terms":"cloud library books json javascript"
     },
     {
         "name":"BUTEX NoteBOT",
         "about":"This is a messenger chatbot made for BUTEX(Bangladesh University of Textiles) to deliver study materials 24x7",
         "link": "https://github.com/TriptoAfsin/notebot-engine-v1",
+        "techUsed": ["Node", "Chatbot"],
         "terms":"note chatbot messenger butex node javascript"
     },
     {
         "name":"CountKoto-Android-App",
         "about":"Versatile Textile Count Calculation Tool",
         "link": "https://play.google.com/store/apps/details?id=newcampusa.newproject.countkoto",
+        "techUsed": ["Java", "Android"],
         "terms":"android app count textile java"
     },
     {
         "name":"Bondi pathshala",
         "about":"An wordpress based educational course platform",
         "link": "https://bondipathshala.net/",
+        "techUsed": ["Wordpress"],
         "terms":"education wordpress"
     },
     {
         "name":"Awesome lib",
         "about":"A repository of awesome js, css libs",
         "link": "https://github.com/TriptoAfsin/awesome-lib",
+        "techUsed": ["React", "CSS"],
         "terms":"awesome react javascript css"
     },
     {
         "name":"BUTEX-PhoneBook",
         "about":"Dynamic Phonebook for BUTEX",
         "link": "https://triptoafsin.github.io/BUTEX-PhoneBook/",
+        "techUsed": ["JS", "HTML", "CSS"],
         "terms":"phonebook butex html css"
     },
     {
         "name":"Rongila.css",
         "about":"A class based css librarary built with animations and responsiveness in mind😍",
         "link": "https://github.com/TriptoAfsin/rongila-css",
+        "techUsed": ["CSS"],
         "terms":"css"
     },
     {
         "name":"Textile Notice",
         "about":"Get RSS Notice Feed of Bangladesh University of Textiles",
         "link": "https://github.com/TriptoAfsin/rongila-css",
+        "techUsed": ["Java", "Android"],
         "terms":"android app textile java"
     }
 ]
