@@ -28,7 +28,7 @@ const jsonArray = [
     },
     {
         name: "NoteBOT",
-        path: "../noteBOT.json"
+        path: "./noteBOT.json"
     }
 ]
 
