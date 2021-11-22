@@ -1,0 +1,36 @@
+{
+    "apiInfo": {
+        "primary": {
+            "live_api_url": "https://notebot-engine-v1.herokuapp.com/app/",
+            "note_api_url": "https://notebot-engine-v1.herokuapp.com/app/notes",
+            "lab_api_url": "https://notebot-engine-v1.herokuapp.com/app/labs"
+        },
+        "secondary": {
+            "live_api_url": "",
+            "note_api_url": "",
+            "lab_api_url": ""
+        }
+    },
+    "inMemoryOf": [
+        {
+            "name": "Fahamul Leon",
+            "about": "YE-44",
+            "diedIn": 2021
+        },
+        {
+            "name": "Foysal Ahmed",
+            "about": "WPE-44",
+            "diedIn": 2021
+        },
+        {
+            "name": "Abhishek Paul",
+            "about": "WPE-45",
+            "diedIn": 2021
+        },
+        {
+            "name": "Sajib Sagor",
+            "about": "TMDM-43",
+            "diedIn": 2019
+        }
+    ]
+}
