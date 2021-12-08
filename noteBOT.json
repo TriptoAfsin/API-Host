@@ -2,7 +2,7 @@
     "apiInfo": {
         "isApiLive": true,
         "primary": {
-            "live_api_url": "https://notebot-engine-v1.herokuapp.com",
+            "live_api_url": "https://notebot-engine-v1.herokuapp.com/",
             "note_api_url": "https://notebot-engine-v1.herokuapp.com/app/notes",
             "lab_api_url": "https://notebot-engine-v1.herokuapp.com/app/labs"
         },
