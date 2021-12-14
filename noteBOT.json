@@ -33,5 +33,39 @@
             "about": "TMDM-43",
             "diedIn": 2019
         }
+    ],
+    "sponsoredContent": [
+        {
+            "title": "Welcome to NoteBOT",
+            "description": "You're loved notebot is now available as an app\nAll of notebot but better",
+            "url": false,
+            "imgUrl": "https://i.imgur.com/xAA3LB3.png",
+            "type": "alerts",
+            "accentColor": "#23a455"
+        },
+        {
+            "title": "Bondi Pathshala",
+            "description": "BUTEX NoteBOT is now powered by Bondi Pathshala 😀",
+            "url": "https://www.facebook.com/bp.liveclass",
+            "imgUrl": "https://i.imgur.com/fQZqOwW.png",
+            "type": "sponsored",
+            "accentColor": "#2575d0"
+        },
+        {
+            "title": "Varsity Day",
+            "description": "Celebrate BUTEX varsity day on 22th December on BUTEX Campus",
+            "url": "https://www.butex.edu.bd/",
+            "imgUrl": "https://i.imgur.com/QH2CsD1.png",
+            "type": "event",
+            "accentColor": "#262626"
+        },
+        {
+            "title": "Happy New Year 2022",
+            "description": "Best of luck for the upcoming year, may this year bring new opportunities for yoy and your loved ones 🤍",
+            "url": false,
+            "imgUrl": "https://i.imgur.com/9x5ugwx.png",
+            "type": "alerts",
+            "accentColor": "#4446f8"
+        }
     ]
 }
