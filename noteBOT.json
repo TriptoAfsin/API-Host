@@ -41,7 +41,7 @@
             "url": false,
             "imgUrl": "https://i.imgur.com/xAA3LB3.png",
             "type": "alerts",
-            "accentColor": ["#2dcd6a","#23a455", "#26b05b"]
+            "accentColor": ["2dcd6a","23a455", "26b05b"]
         },
         {
             "title": "Bondi Pathshala",
@@ -49,7 +49,7 @@
             "url": "https://www.facebook.com/bp.liveclass",
             "imgUrl": "https://i.imgur.com/fQZqOwW.png",
             "type": "sponsored",
-            "accentColor": ["#2093bf","#2575d0","#313ca7"]
+            "accentColor": ["2093bf","2575d0","313ca7"]
         },
         {
             "title": "Varsity Day",
@@ -57,7 +57,7 @@
             "url": "https://www.butex.edu.bd/",
             "imgUrl": "https://i.imgur.com/QH2CsD1.png",
             "type": "event",
-            "accentColor": ["#404040","#262626","#0d0d0d"]
+            "accentColor": ["404040","262626","0d0d0d"]
         },
         {
             "title": "Happy New Year 2022",
@@ -65,7 +65,7 @@
             "url": false,
             "imgUrl": "https://i.imgur.com/9x5ugwx.png",
             "type": "alerts",
-            "accentColor": ["#526cfb","#4446f8", "#2e4bfa"]
+            "accentColor": ["526cfb","4446f8", "2e4bfa"]
         }
     ]
 }
