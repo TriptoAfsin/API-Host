@@ -14,12 +14,12 @@
     },
     "inMemoryOf": [
         {
-            "name": "Fahamul Leon",
+            "name": "Fahamul Fahim(Leon)",
             "about": "YE-44",
             "diedIn": 2021
         },
         {
-            "name": "Foysal Ahmed",
+            "name": "Faisal Ahamed",
             "about": "WPE-44",
             "diedIn": 2021
         },
@@ -66,6 +66,56 @@
             "imgUrl": "https://i.imgur.com/9x5ugwx.png",
             "type": "alerts",
             "accentColor": ["526cfb","4446f8", "2e4bfa"]
+        }
+    ],
+    "communities": [
+        {
+            "title": "ARTex",
+            "description": "You're loved notebot is now available as an app\nAll of notebot but better",
+            "url": "https://www.facebook.com/bp.liveclass",
+            "imgUrl": "https://i.imgur.com/xAA3LB3.png",
+            "category": ["Arts", "Cultural"]
+        },
+        {
+            "title": "BUTEX Business Club",
+            "description": "BUTEX NoteBOT is now powered by Bondi Pathshala 😀",
+            "url": "https://www.facebook.com/bp.liveclass",
+            "imgUrl": "https://i.imgur.com/fQZqOwW.png",
+            "category": ["Carrier", "Business"]
+        },
+        {
+            "title": "BUTEX IT Society",
+            "description": "Celebrate BUTEX varsity day on 22th December on BUTEX Campus",
+            "url": "https://www.butex.edu.bd/",
+            "imgUrl": "https://i.imgur.com/QH2CsD1.png",
+            "category": ["IT", "Programming"]
+        },
+        {
+            "title": "BUTEX Debating Club",
+            "description": "Celebrate BUTEX varsity day on 22th December on BUTEX Campus",
+            "url": "https://www.butex.edu.bd/",
+            "imgUrl": "https://i.imgur.com/QH2CsD1.png",
+            "category": ["debate"]
+        },
+        {
+            "title": "BUTEX Movie & Series Freaks",
+            "description": "Celebrate BUTEX varsity day on 22th December on BUTEX Campus",
+            "url": "https://www.butex.edu.bd/",
+            "imgUrl": "https://i.imgur.com/QH2CsD1.png",
+            "category": ["movie", "series"]
+        },
+        {
+            "title": "বাধন বুটেক্স",
+            "description": "Celebrate BUTEX varsity day on 22th December on BUTEX Campus",
+            "url": "https://www.butex.edu.bd/",
+            "imgUrl": "https://i.imgur.com/QH2CsD1.png",
+            "category": ["blood donation", "series"]
+        }
+    ],
+    "tools": [
+        {
+            "title": "Count Koto",
+            "url": ""
         }
     ]
 }
