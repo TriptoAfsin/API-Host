@@ -36,7 +36,7 @@
     ],
     "sponsoredContent": [
         {
-            "title": "Welcome to NoteBOT",
+            "title": "Welcome to NoteBOT 🌟",
             "description": "You're loved notebot is now available as an app\nAll of notebot but better",
             "url": false,
             "imgUrl": "https://i.imgur.com/xAA3LB3.png",
@@ -115,7 +115,44 @@
     "tools": [
         {
             "title": "Count Koto",
-            "url": ""
+            "url": "https://play.google.com/store/apps/details?id=newcampusa.newproject.countkoto"
+        },
+        {
+            "title": "Cloud Lib",
+            "url": "https://triptoafsin.github.io/Cloud-Lib-React"
+        }
+    ],
+    "results": [
+        {
+            "date": "",
+            "title": "Count Koto",
+            "url": "https://play.google.com/store/apps/details?id=newcampusa.newproject.countkoto"
+        }
+    ],
+    "routines": [
+        {
+            "date": "21-12-2021",
+            "type": "exam",
+            "title": "L 2,1",
+            "url": "https://drive.google.com/file/d/1hlagbuwTw7JgHiLaix0JCTjIAPMChwhJ/view?usp=sharing"
+        },
+        {
+            "date": "21-12-2021",
+            "type": "exam",
+            "title": "L 3,1",
+            "url": "https://drive.google.com/file/d/119kgW-OIo6AY5fBhO4z7vr3ItKnYu610/view?usp=sharing"
+        },
+        {
+            "date": "21-12-2021",
+            "type": "exam",
+            "title": "L 4,1",
+            "url": "https://drive.google.com/file/d/1dCc1T1dXd_ZtKYd4e60uhz99T2P9bck7/view?usp=sharing"
+        },
+        {
+            "date": "",
+            "type": "class",
+            "title": "Count Koto",
+            "url": "https://play.google.com/store/apps/details?id=newcampusa.newproject.countkoto"
         }
     ]
 }
