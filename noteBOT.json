@@ -71,55 +71,57 @@
     "communities": [
         {
             "title": "ARTex",
-            "description": "You're loved notebot is now available as an app\nAll of notebot but better",
-            "url": "https://www.facebook.com/bp.liveclass",
-            "imgUrl": "https://i.imgur.com/xAA3LB3.png",
+            "description": "Each and every person having creative & new ideas is an artist. And ARTex stands for ARTISTS of BUTEX. It's not a club, It's a family",
+            "url": "https://www.facebook.com/ARTex.BUTEX/",
+            "imgUrl": "https://i.imgur.com/logMrL1.jpg",
             "category": ["Arts", "Cultural"]
         },
         {
             "title": "BUTEX Business Club",
-            "description": "BUTEX NoteBOT is now powered by Bondi Pathshala 😀",
-            "url": "https://www.facebook.com/bp.liveclass",
-            "imgUrl": "https://i.imgur.com/fQZqOwW.png",
+            "description": "BUTEX Business Club is on a mission to foster entrepreneurship and leadership through the development of the students of BUTEX.",
+            "url": "https://www.facebook.com/BUTEX.Business.club",
+            "imgUrl": "https://i.imgur.com/fUgN36n.jpg",
             "category": ["Carrier", "Business"]
         },
         {
             "title": "BUTEX IT Society",
-            "description": "Celebrate BUTEX varsity day on 22th December on BUTEX Campus",
-            "url": "https://www.butex.edu.bd/",
-            "imgUrl": "https://i.imgur.com/QH2CsD1.png",
+            "description": "A place to learn & let others learn from you(BUTEX)",
+            "url": "https://www.facebook.com/groups/387245905534464",
+            "imgUrl": "https://i.imgur.com/pmgI2BZ.jpg",
             "category": ["IT", "Programming"]
         },
         {
             "title": "BUTEX Debating Club",
-            "description": "Celebrate BUTEX varsity day on 22th December on BUTEX Campus",
-            "url": "https://www.butex.edu.bd/",
+            "description": "The organization of logic warriors from BUTex premises",
+            "url": "https://www.facebook.com/BUTexDC",
             "imgUrl": "https://i.imgur.com/QH2CsD1.png",
             "category": ["debate"]
         },
         {
             "title": "BUTEX Movie & Series Freaks",
-            "description": "Celebrate BUTEX varsity day on 22th December on BUTEX Campus",
-            "url": "https://www.butex.edu.bd/",
-            "imgUrl": "https://i.imgur.com/QH2CsD1.png",
+            "description": "A Place For BUTExians To Share Their Movie,TV-Series,Anime Related Experiences",
+            "url": "https://www.facebook.com/groups/562492624242545",
+            "imgUrl": "https://i.imgur.com/QKSW2M4.jpg",
             "category": ["movie", "series"]
         },
         {
             "title": "বাধন বুটেক্স",
             "description": "Celebrate BUTEX varsity day on 22th December on BUTEX Campus",
-            "url": "https://www.butex.edu.bd/",
-            "imgUrl": "https://i.imgur.com/QH2CsD1.png",
+            "url": "https://www.facebook.com/groups/badhanbutex",
+            "imgUrl": "https://i.imgur.com/SHkcSzx.jpg",
             "category": ["blood donation", "series"]
         }
     ],
     "tools": [
         {
             "title": "Count Koto",
-            "url": "https://play.google.com/store/apps/details?id=newcampusa.newproject.countkoto"
+            "url": "https://play.google.com/store/apps/details?id=newcampusa.newproject.countkoto",
+            "imgUrl": "https://i.imgur.com/65RqoYp.png"
         },
         {
             "title": "Cloud Lib",
-            "url": "https://triptoafsin.github.io/Cloud-Lib-React"
+            "url": "https://triptoafsin.github.io/Cloud-Lib-React",
+            "imgUrl": "https://i.imgur.com/13AwamT.png"
         }
     ],
     "results": [
