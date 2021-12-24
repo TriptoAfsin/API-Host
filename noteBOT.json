@@ -1,4 +1,6 @@
 {
+    "adStatus": false,
+    "app-version": "1.0.0",
     "apiInfo": {
         "isApiLive": true,
         "primary": {
@@ -94,7 +96,7 @@
             "title": "BUTEX Debating Club",
             "description": "The organization of logic warriors from BUTex premises",
             "url": "https://www.facebook.com/BUTexDC",
-            "imgUrl": "https://i.imgur.com/QH2CsD1.png",
+            "imgUrl": "https://i.imgur.com/RzNEkTo.png",
             "category": ["debate"]
         },
         {
@@ -106,7 +108,7 @@
         },
         {
             "title": "বাধন বুটেক্স",
-            "description": "Celebrate BUTEX varsity day on 22th December on BUTEX Campus",
+            "description": "বাঁধন টেক্সটাইল বিশ্ববিদ্যালয় ইউনিট’ বাংলাদেশ টেক্সটাইল বিশ্ববিদ্যালয়ের ঐতিহ্যবাহী এবং মানব সেবায় নিয়োজিত একটি স্বেচ্ছায় রক্তদাতাদের সংগঠন",
             "url": "https://www.facebook.com/groups/badhanbutex",
             "imgUrl": "https://i.imgur.com/SHkcSzx.jpg",
             "category": ["blood donation", "series"]
@@ -149,12 +151,6 @@
             "type": "exam",
             "title": "L 4,1",
             "url": "https://drive.google.com/file/d/1dCc1T1dXd_ZtKYd4e60uhz99T2P9bck7/view?usp=sharing"
-        },
-        {
-            "date": "",
-            "type": "class",
-            "title": "Count Koto",
-            "url": "https://play.google.com/store/apps/details?id=newcampusa.newproject.countkoto"
         }
     ]
 }
