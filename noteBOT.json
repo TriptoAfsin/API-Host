@@ -9,9 +9,9 @@
             "lab_api_url": "https://notebot-engine-v1.herokuapp.com/app/labs"
         },
         "secondary": {
-            "live_api_url": "",
-            "note_api_url": "",
-            "lab_api_url": ""
+            "live_api_url": "https://notebot.triptex.me/",
+            "note_api_url": "https://notebot.triptex.me/app/notes",
+            "lab_api_url": "https://notebot.triptex.me/app/labs"
         }
     },
     "inMemoryOf": [
@@ -54,12 +54,12 @@
             "accentColor": ["2093bf","2575d0","313ca7"]
         },
         {
-            "title": "Varsity Day",
-            "description": "Celebrate BUTEX varsity day on 22th December on BUTEX Campus",
-            "url": "https://www.butex.edu.bd/",
-            "imgUrl": "https://i.imgur.com/QH2CsD1.png",
-            "type": "event",
-            "accentColor": ["404040","262626","0d0d0d"]
+            "title": "Promote Your Business",
+            "description": "Use Notebot to promote your business, tap on this card to learn more",
+            "url": "https://forms.gle/ZmbccBxEd4GDadKt9",
+            "imgUrl": "https://i.imgur.com/hmWfMOK.png",
+            "type": "alerts",
+            "accentColor": ["d60000","c6242c","a41e25"]
         },
         {
             "title": "Happy New Year 2022",
