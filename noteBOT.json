@@ -1,6 +1,6 @@
 {
     "adStatus": false,
-    "app-version": "1.0.0",
+    "app-version": "1.0.2",
     "apiInfo": {
         "isApiLive": true,
         "primary": {
@@ -9,7 +9,7 @@
             "lab_api_url": "https://notebot-engine-v1.herokuapp.com/app/labs"
         },
         "secondary": {
-            "live_api_url": "https://notebot.triptex.me/",
+            "live_api_url": "https://notebot-engine-v1.herokuapp.com/",
             "note_api_url": "https://notebot.triptex.me/app/notes",
             "lab_api_url": "https://notebot.triptex.me/app/labs"
         }
