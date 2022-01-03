@@ -46,6 +46,14 @@
             "accentColor": ["2dcd6a","23a455", "26b05b"]
         },
         {
+            "title": "Rate NoteBOT",
+            "description": "Tap on this card & rate your beloved notebot on google play store, a rating of 5 stars will mean a lot to the team 😁",
+            "url": "https://play.google.com/store/apps/details?id=com.hawkers.notebot",
+            "imgUrl": "https://i.imgur.com/ogvDLfJ.png",
+            "type": "promotion",
+            "accentColor": ["ff4500","ff3737","ff3737"]
+        },
+        {
             "title": "Bondi Pathshala",
             "description": "BUTEX NoteBOT is now powered by Bondi Pathshala 😀",
             "url": "https://www.facebook.com/bp.liveclass",
@@ -60,14 +68,6 @@
             "imgUrl": "https://i.imgur.com/hmWfMOK.png",
             "type": "alerts",
             "accentColor": ["d60000","c6242c","a41e25"]
-        },
-        {
-            "title": "Rate NoteBOT on Google Play Store",
-            "description": "Tap on this card & rate your beloved notebot on google play store, a rating of 5 stars will mean a lot to the team 😁",
-            "url": "https://play.google.com/store/apps/details?id=com.hawkers.notebot",
-            "imgUrl": "https://i.imgur.com/ogvDLfJ.png",
-            "type": "promotion",
-            "accentColor": ["ff4500","ff3737","ff3737"]
         }
     ],
     "communities": [
