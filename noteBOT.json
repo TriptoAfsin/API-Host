@@ -68,14 +68,6 @@
             "imgUrl": "https://i.imgur.com/ogvDLfJ.png",
             "type": "promotion",
             "accentColor": ["ff4500","ff3737","ff3737"]
-        },
-        {
-            "title": "Happy New Year 2022",
-            "description": "Best of luck for the upcoming year, may this year bring new opportunities for yoy and your loved ones 🤍",
-            "url": false,
-            "imgUrl": "https://i.imgur.com/9x5ugwx.png",
-            "type": "alerts",
-            "accentColor": ["526cfb","4446f8", "2e4bfa"]
         }
     ],
     "communities": [
