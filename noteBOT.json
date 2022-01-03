@@ -62,6 +62,14 @@
             "accentColor": ["d60000","c6242c","a41e25"]
         },
         {
+            "title": "Rate NoteBOT on Google Play Store",
+            "description": "Tap on this card & rate your beloved notebot on google play store, a rating of 5 stars will mean a lot to the team 😁",
+            "url": "https://play.google.com/store/apps/details?id=com.hawkers.notebot",
+            "imgUrl": "https://i.imgur.com/ogvDLfJ.png",
+            "type": "promotion",
+            "accentColor": ["ff4500","ff3737","ff3737"]
+        },
+        {
             "title": "Happy New Year 2022",
             "description": "Best of luck for the upcoming year, may this year bring new opportunities for yoy and your loved ones 🤍",
             "url": false,
