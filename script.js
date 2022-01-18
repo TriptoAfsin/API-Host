@@ -29,6 +29,10 @@ const jsonArray = [
     {
         name: "NoteBOT",
         path: "./noteBOT.json"
+    },
+    {
+        name: "NoteBOT Dev",
+        path: "./noteBotDev.json"
     }
 ]
 
