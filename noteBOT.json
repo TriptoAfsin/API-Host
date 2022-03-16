@@ -162,6 +162,12 @@
     ],
     "routines": [
         {
+            "date": "16-3-2022",
+            "type": "exam",
+            "title": "L 4,1",
+            "url": "https://www.butex.edu.bd/exam-schedule-bsc-in-textile-eng-l-4-t-1-final-exam-2020/"
+        },
+        {
             "date": "9-2-2022",
             "type": "exam",
             "title": "L 2,1",
@@ -172,12 +178,6 @@
             "type": "exam",
             "title": "L 3,1",
             "url": "https://www.butex.edu.bd/exam-schedule-b-sc-in-textile-engineering-l-3-t-1-exam-2020/"
-        },
-        {
-            "date": "21-12-2021",
-            "type": "exam",
-            "title": "L 4,1",
-            "url": "https://drive.google.com/file/d/1dCc1T1dXd_ZtKYd4e60uhz99T2P9bck7/view?usp=sharing"
         }
     ],
     "alerts": {
