@@ -181,9 +181,9 @@
         }
     ],
     "alerts": {
-        "notesSectionAlert": false,
-        "labsSectionAlert": false,
-        "noticeSectionAlert": false,
-        "gamesSectionAlert": false
+        "notesSectionAlert": "false",
+        "labsSectionAlert": "false",
+        "noticeSectionAlert": "false",
+        "gamesSectionAlert": "false"
     }
 }
