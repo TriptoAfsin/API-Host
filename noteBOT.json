@@ -41,7 +41,7 @@
             "title": "Welcome to NoteBOT 🌟",
             "description": "You're loved notebot is now available as an app\nAll of notebot but better",
             "url": false,
-            "imgUrl": "https://i.imgur.com/xAA3LB3.png",
+            "imgUrl": "https://i.postimg.cc/J4j91xCp/xAA3LB3.png",
             "type": "alerts",
             "accentColor": ["2dcd6a","23a455", "26b05b"]
         },
@@ -49,7 +49,7 @@
             "title": "Rate NoteBOT",
             "description": "Tap on this card & rate your beloved notebot on google play store, a rating of 5 stars will mean a lot to the team 😁",
             "url": "https://play.google.com/store/apps/details?id=com.hawkers.notebot",
-            "imgUrl": "https://i.imgur.com/ogvDLfJ.png",
+            "imgUrl": "https://i.postimg.cc/WpBBLKCD/ogvDLfJ.png",
             "type": "promotion",
             "accentColor": ["ff4500","ff3737","ff3737"]
         },
@@ -57,7 +57,7 @@
             "title": "Bondi Pathshala",
             "description": "BUTEX NoteBOT is now powered by Bondi Pathshala 😀",
             "url": "https://www.facebook.com/bp.liveclass",
-            "imgUrl": "https://i.imgur.com/fQZqOwW.png",
+            "imgUrl": "https://i.postimg.cc/vTVCxLgH/fQZqOwW.png",
             "type": "sponsored",
             "accentColor": ["2093bf","2575d0","313ca7"]
         },
@@ -65,7 +65,7 @@
             "title": "Promote Your Business",
             "description": "Use Notebot to promote your business, tap on this card to learn more",
             "url": "https://forms.gle/ZmbccBxEd4GDadKt9",
-            "imgUrl": "https://i.imgur.com/hmWfMOK.png",
+            "imgUrl": "https://i.postimg.cc/mgRKh9bB/hmWfMOK.png",
             "type": "alerts",
             "accentColor": ["d60000","c6242c","a41e25"]
         }
@@ -75,7 +75,7 @@
             "title": "ARTex",
             "description": "Each and every person having creative & new ideas is an artist. And ARTex stands for ARTISTS of BUTEX. It's not a club, It's a family",
             "url": "https://www.facebook.com/ARTex.BUTEX/",
-            "imgUrl": "https://i.imgur.com/logMrL1.jpg",
+            "imgUrl": "https://scontent-sin6-3.xx.fbcdn.net/v/t1.6435-9/53034513_553787625116258_529961971773079552_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeGkI9J3F6o4gULfteS5hvdzlEUCr2cVE9-URQKvZxUT3zFTOSKYbTdzeuYnDV9_cNCDvD1hOi13mWZqIxlbl5zt&_nc_ohc=NWdkAaLumCsAX-CVXP2&_nc_ht=scontent-sin6-3.xx&oh=00_AT9h5kroAQ322lI3v8rpusyptfzGAnVGMfTzifTMLGfuQQ&oe=6264AC90",
             "category": ["Arts", "Cultural"]
         },
         {
@@ -89,35 +89,35 @@
             "title": "BUTEX Business Club",
             "description": "BUTEX Business Club is on a mission to foster entrepreneurship and leadership through the development of the students of BUTEX.",
             "url": "https://www.facebook.com/BUTEX.Business.club",
-            "imgUrl": "https://i.imgur.com/fUgN36n.jpg",
+            "imgUrl": "https://scontent-sin6-4.xx.fbcdn.net/v/t31.18172-8/26961561_733136860219200_5230021714703533332_o.jpg?_nc_cat=101&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeF6EF5WNXSBjrYV1_TO37GRRhg359XI1kxGGDfn1cjWTEAdEBlhVnsji2lq4pHNo0e-yy7tc6gXRL6M5ozIGq3Q&_nc_ohc=Bj00J_oChAcAX-DkHQm&_nc_ht=scontent-sin6-4.xx&oh=00_AT-abyzLVhr1P4KxIePIiBJLiEdVMN8xEraBeaMB5lhRNQ&oe=6263C0E5",
             "category": ["Carrier", "Business"]
         },
         {
             "title": "BUTEX IT Society",
             "description": "A place to learn & let others learn from you(BUTEX)",
             "url": "https://www.facebook.com/groups/387245905534464",
-            "imgUrl": "https://i.imgur.com/pmgI2BZ.jpg",
+            "imgUrl": "https://scontent-sin6-4.xx.fbcdn.net/v/t1.6435-9/101964794_2988736834577010_8323770649713573888_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=8631f5&_nc_eui2=AeG14r_Vn6Zi12GEKiEkr3dLD7bx42UD-7kPtvHjZQP7uS79Tx-rCQFOhQXVhZA0u5DZyN-yRY6423GDgCy11chF&_nc_ohc=-oy4fCGLkuUAX8Nn6sq&_nc_ht=scontent-sin6-4.xx&oh=00_AT_BWf9gCxmYAnTm_imQUSaBlb4xZ8x6Yhzu4IB7kJwH9A&oe=6265CFC0",
             "category": ["IT", "Programming"]
         },
         {
             "title": "BUTEX Debating Club",
             "description": "The organization of logic warriors from BUTex premises",
             "url": "https://www.facebook.com/BUTexDC",
-            "imgUrl": "https://i.imgur.com/RzNEkTo.png",
+            "imgUrl": "https://scontent-sin6-2.xx.fbcdn.net/v/t39.30808-6/244479837_4514642791920524_694842214870335322_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeFPSgK9YBX3mm0H9tlVBf0RREbYeXPIswJERth5c8izAjDuw4qxnK3JkhNtx8HNL2PC-rPqjiFJ7eNxQ_GFz93x&_nc_ohc=8X8UuGRHTP0AX9G2RDl&_nc_ht=scontent-sin6-2.xx&oh=00_AT93rcTW42AdjVTc8lzKLeDwXJh93KtkqyKoGKs3G1CPhQ&oe=6244142C",
             "category": ["debate"]
         },
         {
             "title": "BUTEX Movie & Series Freaks",
             "description": "A Place For BUTExians To Share Their Movie,TV-Series,Anime Related Experiences",
             "url": "https://www.facebook.com/groups/562492624242545",
-            "imgUrl": "https://i.imgur.com/QKSW2M4.jpg",
+            "imgUrl": "https://scontent-sin6-2.xx.fbcdn.net/v/t1.6435-9/125221469_3457164921067530_6385637221430471721_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=8631f5&_nc_eui2=AeH3RfDasGq_DQ-U4S0pFrZjLNuewpZneuos257Clmd66hZwD6OIZpnBzTHWp1qXFQPZE0CgJ694LEMcO7-zRLSf&_nc_ohc=GorjbbAKJIcAX9EHf74&_nc_ht=scontent-sin6-2.xx&oh=00_AT-rVQYAziWiWmfJB3LR0nwidzNH6k7F8Wb82LV2DqU51g&oe=62651447",
             "category": ["movie", "series"]
         },
         {
             "title": "বাধন বুটেক্স",
             "description": "বাঁধন টেক্সটাইল বিশ্ববিদ্যালয় ইউনিট’ বাংলাদেশ টেক্সটাইল বিশ্ববিদ্যালয়ের ঐতিহ্যবাহী এবং মানব সেবায় নিয়োজিত একটি স্বেচ্ছায় রক্তদাতাদের সংগঠন",
             "url": "https://www.facebook.com/groups/badhanbutex",
-            "imgUrl": "https://i.imgur.com/SHkcSzx.jpg",
+            "imgUrl": "https://scontent-sin6-4.xx.fbcdn.net/v/t39.30808-6/261990117_2994867787420356_8723858499432824084_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=8631f5&_nc_eui2=AeEFI3aJh67omUjVzlmreE12DEnxGneTRKkMSfEad5NEqeaVDeNuGRSQy-ehHTjxuDQdOG2x5P5Bwx4oR5dWMCh4&_nc_ohc=7ebUcqXso2UAX9YNmWd&_nc_oc=AQmC4NJD3BzpoMvNuEW7xB3KA2zdLBcbWLHmJgYKRyZx3E6oGbUP9lw6TEQlqKNzpqw&_nc_ht=scontent-sin6-4.xx&oh=00_AT_R5XwFqtoKThX_xFNVFJdtR8Ab0aocKm5yR2YFAcxd_A&oe=62433CFB",
             "category": ["blood donation", "volunteer"]
         }
     ],
@@ -125,12 +125,12 @@
         {
             "title": "Count Koto",
             "url": "https://play.google.com/store/apps/details?id=newcampusa.newproject.countkoto",
-            "imgUrl": "https://i.imgur.com/65RqoYp.png"
+            "imgUrl": "https://i.postimg.cc/Vsrxh1GQ/65RqoYp.png" 
         },
         {
             "title": "Cloud Lib",
             "url": "https://triptoafsin.github.io/Cloud-Lib-React",
-            "imgUrl": "https://i.imgur.com/13AwamT.png"
+            "imgUrl": "https://i.postimg.cc/Jng9hdh2/13AwamT.png"
         }
     ],
     "results": [
@@ -182,7 +182,7 @@
     ],
     "alerts": {
         "notesSectionAlert": "false",
-        "labsSectionAlert": "false",
+        "labsSectionAlert": "📢 Level 2 reports will be added soon",
         "noticeSectionAlert": "false",
         "gamesSectionAlert": "false"
     }
