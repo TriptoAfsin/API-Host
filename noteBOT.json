@@ -1,6 +1,6 @@
 {
     "adStatus": false,
-    "app-version": "1.0.2",
+    "app-version": "1.1.0",
     "apiInfo": {
         "isApiLive": true,
         "primary": {
@@ -182,7 +182,7 @@
     ],
     "alerts": {
         "notesSectionAlert": "false",
-        "labsSectionAlert": "📢 Level 2 reports will be added soon",
+        "labsSectionAlert": "📢 Level 2 & 3 reports will be added soon",
         "noticeSectionAlert": "false",
         "gamesSectionAlert": "false"
     }
