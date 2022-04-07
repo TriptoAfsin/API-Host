@@ -1,15 +1,6 @@
 [
     {
         "id": 1,
-        "name":"Cloud Lib",
-        "img": "https://i.postimg.cc/W1qbQ0Dm/fFLDk2i.jpg",
-        "about":"Cloud lib is an open collaborative project for better educational content distribution",
-        "link": "https://triptoafsin.github.io/Cloud-Lib-React/",
-        "techUsed": ["React", "CSS"],
-        "terms":"cloud library books json javascript"
-    },
-    {
-        "id": 2,
         "name":"BUTEX NoteBOT",
         "img": "https://i.postimg.cc/fLCwxKFs/BXgNgb6.png",
         "about":"This is a messenger chatbot made for BUTEX(Bangladesh University of Textiles) to deliver study materials 24x7",
@@ -18,7 +9,25 @@
         "terms":"note chatbot messenger butex node javascript"
     },
     {
+        "id": 2,
+        "name":"Cloud Lib",
+        "img": "https://i.postimg.cc/W1qbQ0Dm/fFLDk2i.jpg",
+        "about":"Cloud lib is an open collaborative project for better educational content distribution",
+        "link": "https://triptoafsin.github.io/Cloud-Lib-React/",
+        "techUsed": ["React", "CSS"],
+        "terms":"cloud library books json javascript"
+    },
+    {
         "id": 3,
+        "name":"NoteBot Analytics API",
+        "img": "https://i.postimg.cc/fLCwxKFs/BXgNgb6.png",
+        "about":"Analytics API made for my notebot chatbot and notebot app using node and mysql",
+        "link": "https://github.com/TriptoAfsin/NoteBot-Analytics-API",
+        "techUsed": ["Node", "MySQL"],
+        "terms":"node notebot analytics database"
+    },
+    {
+        "id": 4,
         "name":"CountKoto-Android-App",
         "img": "https://i.postimg.cc/ZqrYqZxC/pudmBpM.png",
         "about":"Versatile Textile Count Calculation Tool",
@@ -27,7 +36,7 @@
         "terms":"android app count textile java"
     },
     {
-        "id": 4,
+        "id": 5,
         "name":"Bondi Pathshala",
         "img": "https://i.postimg.cc/vTVCxLgH/fQZqOwW.png",
         "about":"An wordpress based educational course platform",
@@ -36,7 +45,7 @@
         "terms":"education wordpress"
     },
     {
-        "id": 5,
+        "id": 6,
         "name":"Awesome lib",
         "img": "https://i.postimg.cc/WbH1W54b/czh7vlF.png",
         "about":"A repository of awesome js, css libs",
@@ -45,7 +54,7 @@
         "terms":"awesome react javascript css"
     },
     {
-        "id": 6,
+        "id": 7,
         "name":"BUTEX-PhoneBook",
         "img": "https://i.postimg.cc/sXsjQ8TK/qDQJ8gW.png",
         "about":"Dynamic Phonebook for BUTEX",
@@ -54,21 +63,12 @@
         "terms":"phonebook butex html css"
     },
     {
-        "id": 7,
+        "id": 8,
         "name":"Rongila.css",
         "img": "https://i.postimg.cc/q7fM0gnP/deyDOiA.png",
         "about":"A class based css library built with animations and responsiveness in mind😍",
         "link": "https://github.com/TriptoAfsin/rongila-css",
         "techUsed": ["CSS"],
         "terms":"css"
-    },
-    {
-        "id": 8,
-        "name":"Textile Notice",
-        "img": "https://i.postimg.cc/D0z75GkX/OsyiviN.png",
-        "about":"Get RSS Notice Feed of Bangladesh University of Textiles",
-        "link": "https://github.com/TriptoAfsin/rongila-css",
-        "techUsed": ["Java", "Android"],
-        "terms":"android app textile java"
     }
 ]
