@@ -148,19 +148,15 @@
             "date": "19-11-21",
             "title": "Admission Test",
             "url": "https://drive.google.com/file/d/1kzUBfCeW_iX4iQeMYQnEglhjAqHfRX6P/view"
-        },
-        {
-            "date": "29-9-21",
-            "title": "Academic L3,T2",
-            "url": "https://www.butex.edu.bd/wp-content/uploads/2021/09/Result-of-B.Sc_.-in-Textile-Engineering-L-3-T-2-Examination-2019.pdf"
-        },
-        {
-            "date": "22-9-21",
-            "title": "Academic L2,T2",
-            "url": "https://www.butex.edu.bd/wp-content/uploads/2021/09/Result-of-B.Sc_.-in-Textile-Engineering-L-2-T-2-Examination-2019.pdf"
         }
     ],
     "routines": [
+        {
+            "date": "21-12-22",
+            "type": "class schedule",
+            "title": "L 1, T1",
+            "url": "https://www.butex.edu.bd/wp-content/uploads/2022/12/Download-Class-Schedule-of-B.-Sc.-in-Textile-Engineering-Level-1-Term-1.pdf"
+        },
         {
             "date": "16-3-2022",
             "type": "exam",
