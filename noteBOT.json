@@ -196,7 +196,7 @@
     ],
     "alerts": {
         "notesSectionAlert": "false",
-        "labsSectionAlert": "📢 Level 2 & 3 reports will be added soon",
+        "labsSectionAlert": "false",
         "noticeSectionAlert": "false",
         "gamesSectionAlert": "false"
     }
