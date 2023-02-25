@@ -162,16 +162,22 @@
     ],
     "routines": [
         {
+            "date": "25-2-23",
+            "type": "class schedule",
+            "title": "L 3,2",
+            "url": "https://www.butex.edu.bd/wp-content/uploads/2023/02/Class-Schedule-of-B.-Sc.-in-Textile-Engineering-Level-3-Term-2.pdf"
+        },
+        {
+            "date": "25-2-23",
+            "type": "class schedule",
+            "title": "L 2,1",
+            "url": "https://www.butex.edu.bd/wp-content/uploads/2023/02/Class-Schedule-of-B.-Sc.-in-Textile-Engineering-Level-2-Term-1.pdf"
+        },
+        {
             "date": "21-12-22",
             "type": "class schedule",
             "title": "L 1, T1",
             "url": "https://www.butex.edu.bd/wp-content/uploads/2022/12/Download-Class-Schedule-of-B.-Sc.-in-Textile-Engineering-Level-1-Term-1.pdf"
-        },
-        {
-            "date": "16-3-2022",
-            "type": "exam",
-            "title": "L 4,1",
-            "url": "https://www.butex.edu.bd/exam-schedule-bsc-in-textile-eng-l-4-t-1-final-exam-2020/"
         },
         {
             "date": "9-2-2022",
