@@ -48,12 +48,12 @@
     ],
     "sponsoredContent": [
         {
-            "title": "Welcome to NoteBOT 🌟",
-            "description": "You're loved notebot is now available as an app\nAll of notebot but better",
-            "url": false,
-            "imgUrl": "https://i.postimg.cc/J4j91xCp/xAA3LB3.png",
+            "title": "৫ টাকায় TrueCaller Premium !",
+            "description": "Get TrueCaller Premium starting from only 5 BDT!",
+            "url": "https://hullor.io/#truecaller",
+            "imgUrl": "https://i.imgur.com/DRhdCou.png",
             "type": "alerts",
-            "accentColor": ["2dcd6a","23a455", "26b05b"]
+            "accentColor": ["06335a","458dcd","06335a"]
         },
         {
             "title": "Rate NoteBOT",
