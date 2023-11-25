@@ -4,14 +4,14 @@
     "apiInfo": {
         "isApiLive": true,
         "primary": {
+            "live_api_url": "https://notebot-eng-v1.onrender.com/",
+            "note_api_url": "https://notebot-eng-v1.onrender.com/app/notes",
+            "lab_api_url": "https://notebot-eng-v1.onrender.com/app/labs"
+        },
+        "secondary": {
             "live_api_url": "https://notebot-engine-v1-dev-tara.3.us-1.fl0.io/",
             "note_api_url": "https://notebot-engine-v1-dev-tara.3.us-1.fl0.io/app/notes",
             "lab_api_url": "https://notebot-engine-v1-dev-tara.3.us-1.fl0.io/app/labs"
-        },
-        "secondary": {
-            "live_api_url": "https://notebot.triptex.me/",
-            "note_api_url": "https://notebot.triptex.me/app/notes",
-            "lab_api_url": "https://notebot.triptex.me/app/labs"
         }
     },
     "inMemoryOf": [
