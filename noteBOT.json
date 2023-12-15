@@ -48,6 +48,14 @@
     ],
     "sponsoredContent": [
         {
+            "title": "Solidarity with Palestine ✊",
+            "description": "We stand with solidarity with our brothers and sister of Palestine #FreePalestine",
+            "url": "https://www.facebook.com/palestinembassydhaka/",
+            "imgUrl": "https://i.postimg.cc/YCZ1JNqs/palestine-round.png",
+            "type": "alerts",
+            "accentColor": ["000000","1e2227","1e2227"]
+        },
+        {
             "title": "৫ টাকায় TrueCaller Premium !(Genuine)",
             "description": "Get Genuine TrueCaller Premium starting from only 5 BDT!",
             "url": "https://hullor.io/truecaller",
