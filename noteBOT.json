@@ -48,20 +48,20 @@
     ],
     "sponsoredContent": [
         {
+            "title": "Happy New year 2024",
+            "description": "We wish everyone a very happy and prosperous new year 🤍",
+            "url": "https://play.google.com/store/apps/details?id=com.hawkers.notebot",
+            "imgUrl": "https://i.postimg.cc/WpBBLKCD/ogvDLfJ.png",
+            "type": "promotion",
+            "accentColor": ["ff4500","ff3737","ff3737"]
+        },
+        {
             "title": "Solidarity with Palestine ✊",
             "description": "We stand in solidarity with our brothers and sister of Palestine #FreePalestine",
             "url": "https://www.facebook.com/palestinembassydhaka/",
             "imgUrl": "https://i.postimg.cc/YCZ1JNqs/palestine-round.png",
             "type": "alerts",
             "accentColor": ["000000","1e2227","1e2227"]
-        },
-        {
-            "title": "৫ টাকায় TrueCaller Premium !(Genuine)",
-            "description": "Get Genuine TrueCaller Premium starting from only 5 BDT!",
-            "url": "https://hullor.io/truecaller",
-            "imgUrl": "https://i.postimg.cc/xjx4nLy4/tc-whole-slide.png",
-            "type": "alerts",
-            "accentColor": ["06335a","458dcd","06335a"]
         },
         {
             "title": "Rate NoteBOT",
