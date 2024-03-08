@@ -9,6 +9,24 @@
         "terms":"note chatbot messenger butex node javascript"
     },
     {
+        "id": 2222,
+        "name":"ts-stats",
+        "img": "https://i.postimg.cc/f374qyrR/Presentation1.png",
+        "about":"Helpful utility functions for basic statistical operations in JavaScript & TypeScript",
+        "link": "https://github.com/TriptoAfsin/ts-stats",
+        "techUsed": ["TypeScript", "NPM"],
+        "terms":"typescript statistics stat npm util"
+    },
+    {
+        "id": 2234,
+        "name":"bang-utils",
+        "img": "https://i.postimg.cc/HcShFy4d/Presentation-bang.png",
+        "about":"A lightweight utility library for converting English numerals and dates to Bengali in TypeScript/ JavaScript",
+        "link": "https://github.com/TriptoAfsin/ts-stats",
+        "techUsed": ["TypeScript", "NPM"],
+        "terms":"typescript bangla util npm phonetic"
+    },
+    {
         "id": 2,
         "name":"Cloud Lib",
         "img": "https://i.postimg.cc/W1qbQ0Dm/fFLDk2i.jpg",
@@ -43,15 +61,6 @@
         "link": "https://bondipathshala.net/",
         "techUsed": ["Wordpress"],
         "terms":"education wordpress"
-    },
-    {
-        "id": 6,
-        "name":"Awesome lib",
-        "img": "https://i.postimg.cc/WbH1W54b/czh7vlF.png",
-        "about":"A repository of awesome js, css libs",
-        "link": "https://github.com/TriptoAfsin/awesome-lib",
-        "techUsed": ["React", "CSS"],
-        "terms":"awesome react javascript css"
     },
     {
         "id": 7,
