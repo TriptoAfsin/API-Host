@@ -11,7 +11,7 @@
     {
         "id": 2222,
         "name":"ts-stats",
-        "img": "https://i.postimg.cc/NGSp48YZ/Slide1.png",
+        "img": "https://i.postimg.cc/yY6YLRPX/Slide1.png",
         "about":"Helpful utility functions for basic statistical operations in JavaScript & TypeScript",
         "link": "https://github.com/TriptoAfsin/ts-stats",
         "techUsed": ["TypeScript", "NPM"],
@@ -20,7 +20,7 @@
     {
         "id": 2234,
         "name":"bang-utils",
-        "img": "https://i.postimg.cc/tC6Dm14J/Slide2.png",
+        "img": "https://i.postimg.cc/xTsjhdpr/Slide2.png",
         "about":"A lightweight utility library for converting English numerals and dates to Bengali in TypeScript/ JavaScript",
         "link": "https://github.com/TriptoAfsin/ts-stats",
         "techUsed": ["TypeScript", "NPM"],
