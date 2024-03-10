@@ -48,12 +48,12 @@
     ],
     "sponsoredContent": [
         {
-            "title": "Happy New year 2024",
-            "description": "We wish everyone a very happy and prosperous new year 🤍",
-            "url": "https://play.google.com/store/apps/details?id=com.hawkers.notebot",
-            "imgUrl": "https://i.postimg.cc/WpBBLKCD/ogvDLfJ.png",
-            "type": "promotion",
-            "accentColor": ["ff4500","ff3737","ff3737"]
+            "title": "Ramadan Mubarak ✨",
+            "description": "May this sacred month bring you peace, blessings and spiritual fulfillment.",
+            "url": "https://muslim.sg/articles/5-beautiful-dua-for-you-this-ramadan",
+            "imgUrl": "https://i.postimg.cc/k55jfXSS/ramadan-2024.png",
+            "type": "alerts",
+            "accentColor": ["3b1857","3b1857","280f39"]
         },
         {
             "title": "Solidarity with Palestine ✊",
