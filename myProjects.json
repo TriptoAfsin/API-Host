@@ -22,7 +22,7 @@
         "name":"bang-utils",
         "img": "https://i.postimg.cc/xTsjhdpr/Slide2.png",
         "about":"A lightweight utility library for converting English numerals and dates to Bengali in TypeScript/ JavaScript",
-        "link": "https://github.com/TriptoAfsin/ts-stats",
+        "link": "https://github.com/TriptoAfsin/bang-utils",
         "techUsed": ["TypeScript", "NPM"],
         "terms":"typescript bangla util npm phonetic"
     },
