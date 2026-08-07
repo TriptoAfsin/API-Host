@@ -1,242 +1,242 @@
 {
-    "adStatus": false,
-    "app-version": "1.2.0",
-    "apiInfo": {
-        "isApiLive": true,
-        "primary": {
-            "live_api_url": "https://notebot-eng-v1.onrender.com/",
-            "note_api_url": "https://notebot-eng-v1.onrender.com/app/notes",
-            "lab_api_url": "https://notebot-eng-v1.onrender.com/app/labs"
-        },
-        "secondary": {
-            "live_api_url": "https://notebot-engine-v1-dev-tara.3.us-1.fl0.io/",
-            "note_api_url": "https://notebot-engine-v1-dev-tara.3.us-1.fl0.io/app/notes",
-            "lab_api_url": "https://notebot-engine-v1-dev-tara.3.us-1.fl0.io/app/labs"
-        }
+  "adStatus": false,
+  "app-version": "1.2.0",
+  "apiInfo": {
+    "isApiLive": true,
+    "primary": {
+      "live_api_url": "https://notebot-eng-v1.onrender.com/",
+      "note_api_url": "https://notebot-eng-v1.onrender.com/app/notes",
+      "lab_api_url": "https://notebot-eng-v1.onrender.com/app/labs"
     },
-    "inMemoryOf": [
-        {
-            "name": "Arpita Banik",
-            "about": "WPE-44",
-            "diedIn": 2023
-        },
-        {
-            "name": "Jannatul Nayim Joy",
-            "about": "ESE-45",
-            "diedIn": 2022
-        },
-        {
-            "name": "Fahamul Fahim(Leon)",
-            "about": "YE-44",
-            "diedIn": 2021
-        },
-        {
-            "name": "Faisal Ahamed",
-            "about": "WPE-44",
-            "diedIn": 2021
-        },
-        {
-            "name": "Abhishek Paul",
-            "about": "WPE-45",
-            "diedIn": 2021
-        },
-        {
-            "name": "Sajib Sagor",
-            "about": "TMDM-43",
-            "diedIn": 2019
-        }
-    ],
-    "sponsoredContent": [
-        {
-            "title": "মানবিক সাহায্যের আবেদন ",
-            "description": "মেধাবী শিক্ষার্থী ইব্রাহীম শেখ, চতুর্থ বর্ষের (IPE-46 ব্যাচ) ছাত্র, হঠাৎ করেই জীবন-মৃত্যুর সন্ধিক্ষণে দাঁড়িয়ে",
-            "url": "https://www.facebook.com/story.php?story_fbid=1194467449093346&id=100055903053838&rdid=fCstxYedtzesAd2c#",
-            "imgUrl": "https://i.postimg.cc/xkMQSDTx/help-1.png",
-            "type": "alerts",
-            "accentColor": ["000000","1e2227","1e2227"]
-        },
-        {
-            "title": "Solidarity with Palestine ✊",
-            "description": "We stand in solidarity with our brothers and sister of Palestine #FreePalestine",
-            "url": "https://www.facebook.com/palestinembassydhaka/",
-            "imgUrl": "https://i.postimg.cc/YCZ1JNqs/palestine-round.png",
-            "type": "alerts",
-            "accentColor": ["000000","1e2227","1e2227"]
-        },
-        {
-            "title": "Rate NoteBOT",
-            "description": "Tap on this card & rate your beloved notebot on google play store, a rating of 5 stars will mean a lot to the team 😁",
-            "url": "https://play.google.com/store/apps/details?id=com.hawkers.notebot",
-            "imgUrl": "https://i.postimg.cc/WpBBLKCD/ogvDLfJ.png",
-            "type": "promotion",
-            "accentColor": ["ff4500","ff3737","ff3737"]
-        },
-        {
-            "title": "Bondi Pathshala",
-            "description": "BUTEX NoteBOT is now powered by Bondi Pathshala 😀",
-            "url": "https://www.facebook.com/bp.liveclass",
-            "imgUrl": "https://i.postimg.cc/vTVCxLgH/fQZqOwW.png",
-            "type": "sponsored",
-            "accentColor": ["2093bf","2575d0","313ca7"]
-        },
-        {
-            "title": "Promote Your Business",
-            "description": "Use Notebot to promote your business, tap on this card to learn more",
-            "url": "https://forms.gle/ZmbccBxEd4GDadKt9",
-            "imgUrl": "https://i.postimg.cc/mgRKh9bB/hmWfMOK.png",
-            "type": "alerts",
-            "accentColor": ["d60000","c6242c","a41e25"]
-        }
-    ],
-    "communities": [
-        {
-            "title": "ARTex",
-            "description": "Each and every person having creative & new ideas is an artist. And ARTex stands for ARTISTS of BUTEX. It's not a club, It's a family",
-            "url": "https://www.facebook.com/ARTex.BUTEX/",
-            "imgUrl": "https://scontent-sin6-3.xx.fbcdn.net/v/t1.6435-9/53034513_553787625116258_529961971773079552_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeGkI9J3F6o4gULfteS5hvdzlEUCr2cVE9-URQKvZxUT3zFTOSKYbTdzeuYnDV9_cNCDvD1hOi13mWZqIxlbl5zt&_nc_ohc=NWdkAaLumCsAX-CVXP2&_nc_ht=scontent-sin6-3.xx&oh=00_AT9h5kroAQ322lI3v8rpusyptfzGAnVGMfTzifTMLGfuQQ&oe=6264AC90",
-            "category": ["Arts", "Cultural"]
-        },
-        {
-            "title": "বুটেক্স সাহিত্য সংসদ",
-            "description": "বই পড়েন এমন ভাই বোন যারা আছেন অথবা প্রয়োজনীয় বই খুজে না পাওয়াতে যাদের আর বই পড়া হয়ে উঠছে না তারা যোগ দিতে পারেন আমাদের সাথে।",
-            "url": "https://www.facebook.com/groups/1572484283057629/",
-            "imgUrl": "https://scontent.fdac135-1.fna.fbcdn.net/v/t1.6435-9/49844990_932190493653352_3449884643166257152_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=b9115d&_nc_eui2=AeGo_YftmkKBUfT6hCJ3f3C5Ga1C4ohLu2QZrULiiEu7ZDYQwzY06iqOgHQyUKHk0CnxAgQyAHfFn5q6MedQDnhH&_nc_ohc=24C2GYt3fnkAX8_ArRg&_nc_ht=scontent.fdac135-1.fna&oh=00_AT_tOutNug8tTgSRkTCiDZgZ5yhnY8cAJ7KHy1Z60LKLnw&oe=621754FC",
-            "category": ["Books", "Cultural"]
-        },
-        {
-            "title": "BUTEX Business Club",
-            "description": "BUTEX Business Club is on a mission to foster entrepreneurship and leadership through the development of the students of BUTEX.",
-            "url": "https://www.facebook.com/BUTEX.Business.club",
-            "imgUrl": "https://scontent-sin6-4.xx.fbcdn.net/v/t31.18172-8/26961561_733136860219200_5230021714703533332_o.jpg?_nc_cat=101&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeF6EF5WNXSBjrYV1_TO37GRRhg359XI1kxGGDfn1cjWTEAdEBlhVnsji2lq4pHNo0e-yy7tc6gXRL6M5ozIGq3Q&_nc_ohc=Bj00J_oChAcAX-DkHQm&_nc_ht=scontent-sin6-4.xx&oh=00_AT-abyzLVhr1P4KxIePIiBJLiEdVMN8xEraBeaMB5lhRNQ&oe=6263C0E5",
-            "category": ["Carrier", "Business"]
-        },
-        {
-            "title": "BUTEX IT Society",
-            "description": "A place to learn & let others learn from you(BUTEX)",
-            "url": "https://www.facebook.com/groups/387245905534464",
-            "imgUrl": "https://scontent-sin6-4.xx.fbcdn.net/v/t1.6435-9/101964794_2988736834577010_8323770649713573888_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=8631f5&_nc_eui2=AeG14r_Vn6Zi12GEKiEkr3dLD7bx42UD-7kPtvHjZQP7uS79Tx-rCQFOhQXVhZA0u5DZyN-yRY6423GDgCy11chF&_nc_ohc=-oy4fCGLkuUAX8Nn6sq&_nc_ht=scontent-sin6-4.xx&oh=00_AT_BWf9gCxmYAnTm_imQUSaBlb4xZ8x6Yhzu4IB7kJwH9A&oe=6265CFC0",
-            "category": ["IT", "Programming"]
-        },
-        {
-            "title": "BUTEX Debating Club",
-            "description": "The organization of logic warriors from BUTex premises",
-            "url": "https://www.facebook.com/BUTexDC",
-            "imgUrl": "https://scontent-sin6-2.xx.fbcdn.net/v/t39.30808-6/244479837_4514642791920524_694842214870335322_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeFPSgK9YBX3mm0H9tlVBf0RREbYeXPIswJERth5c8izAjDuw4qxnK3JkhNtx8HNL2PC-rPqjiFJ7eNxQ_GFz93x&_nc_ohc=8X8UuGRHTP0AX9G2RDl&_nc_ht=scontent-sin6-2.xx&oh=00_AT93rcTW42AdjVTc8lzKLeDwXJh93KtkqyKoGKs3G1CPhQ&oe=6244142C",
-            "category": ["debate"]
-        },
-        {
-            "title": "BUTEX Movie & Series Freaks",
-            "description": "A Place For BUTExians To Share Their Movie,TV-Series,Anime Related Experiences",
-            "url": "https://www.facebook.com/groups/562492624242545",
-            "imgUrl": "https://scontent-sin6-2.xx.fbcdn.net/v/t1.6435-9/125221469_3457164921067530_6385637221430471721_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=8631f5&_nc_eui2=AeH3RfDasGq_DQ-U4S0pFrZjLNuewpZneuos257Clmd66hZwD6OIZpnBzTHWp1qXFQPZE0CgJ694LEMcO7-zRLSf&_nc_ohc=GorjbbAKJIcAX9EHf74&_nc_ht=scontent-sin6-2.xx&oh=00_AT-rVQYAziWiWmfJB3LR0nwidzNH6k7F8Wb82LV2DqU51g&oe=62651447",
-            "category": ["movie", "series"]
-        },
-        {
-            "title": "বাধন বুটেক্স",
-            "description": "বাঁধন টেক্সটাইল বিশ্ববিদ্যালয় ইউনিট’ বাংলাদেশ টেক্সটাইল বিশ্ববিদ্যালয়ের ঐতিহ্যবাহী এবং মানব সেবায় নিয়োজিত একটি স্বেচ্ছায় রক্তদাতাদের সংগঠন",
-            "url": "https://www.facebook.com/groups/badhanbutex",
-            "imgUrl": "https://scontent-sin6-4.xx.fbcdn.net/v/t39.30808-6/261990117_2994867787420356_8723858499432824084_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=8631f5&_nc_eui2=AeEFI3aJh67omUjVzlmreE12DEnxGneTRKkMSfEad5NEqeaVDeNuGRSQy-ehHTjxuDQdOG2x5P5Bwx4oR5dWMCh4&_nc_ohc=7ebUcqXso2UAX9YNmWd&_nc_oc=AQmC4NJD3BzpoMvNuEW7xB3KA2zdLBcbWLHmJgYKRyZx3E6oGbUP9lw6TEQlqKNzpqw&_nc_ht=scontent-sin6-4.xx&oh=00_AT_R5XwFqtoKThX_xFNVFJdtR8Ab0aocKm5yR2YFAcxd_A&oe=62433CFB",
-            "category": ["blood donation", "volunteer"]
-        }
-    ],
-    "tools": [
-        {
-            "title": "Count Koto",
-            "url": "https://play.google.com/store/apps/details?id=newcampusa.newproject.countkoto",
-            "imgUrl": "https://i.postimg.cc/Vsrxh1GQ/65RqoYp.png" 
-        },
-        {
-            "title": "Cloud Lib",
-            "url": "https://triptoafsin.github.io/Cloud-Lib-React",
-            "imgUrl": "https://thumbs2.imgbox.com/b3/9a/ktktGZUj_t.png"
-        }
-    ],
-    "results": [
-        {
-            "date": "9-4-23",
-            "title": "L 4, T1",
-            "url": "https://www.butex.edu.bd/result-of-bsc-in-textile-engineering-l-4-t-1-exam-2021/"
-        },
-        {
-            "date": "28-3-23",
-            "title": "L 3, T1",
-            "url": "https://www.butex.edu.bd/wp-content/uploads/2023/03/Result-of-BSc-in-Textile-Engineering-L-3-T-1-Exam-2021-Session2020-21.pdf"
-        },
-        {
-            "date": "16-3-23",
-            "title": "L 1, T2",
-            "url": "https://www.butex.edu.bd/result-of-bsc-in-textile-engineering-l-1-t-2-exam-2021/"
-        },
-        {
-            "date": "1-3-23",
-            "title": "L 2, T1",
-            "url": "https://www.butex.edu.bd/wp-content/uploads/2023/03/Result-of-BSc-in-Textile-Engineering-L-2-T-1-Exam-2021.pdf"
-        },
-        {
-            "date": "23-1-22",
-            "title": "Academic L1, T2(Affiliated)",
-            "url": "https://www.butex.edu.bd/wp-content/uploads/2022/01/Result-of-Affiliated-Colleges-B.Sc_.-in-Textile-Engineering-L-1-T-2-Exam-2019.pdf"
-        },
-        {
-            "date": "19-11-21",
-            "title": "Admission Test",
-            "url": "https://drive.google.com/file/d/1kzUBfCeW_iX4iQeMYQnEglhjAqHfRX6P/view"
-        }
-    ],
-    "routines": [
-        {
-            "date": "25-2-23",
-            "type": "class schedule",
-            "title": "L 3,2",
-            "url": "https://www.butex.edu.bd/wp-content/uploads/2023/02/Class-Schedule-of-B.-Sc.-in-Textile-Engineering-Level-3-Term-2.pdf"
-        },
-        {
-            "date": "25-2-23",
-            "type": "class schedule",
-            "title": "L 2,1",
-            "url": "https://www.butex.edu.bd/wp-content/uploads/2023/02/Class-Schedule-of-B.-Sc.-in-Textile-Engineering-Level-2-Term-1.pdf"
-        },
-        {
-            "date": "21-12-22",
-            "type": "class schedule",
-            "title": "L 1, T1",
-            "url": "https://www.butex.edu.bd/wp-content/uploads/2022/12/Download-Class-Schedule-of-B.-Sc.-in-Textile-Engineering-Level-1-Term-1.pdf"
-        },
-        {
-            "date": "9-2-2022",
-            "type": "exam",
-            "title": "L 2,1",
-            "url": "https://www.butex.edu.bd/exam-schedule-b-sc-in-textile-engineering-l-2-t-1-exam-2020/"
-        },
-        {
-            "date": "9-2-2022",
-            "type": "exam",
-            "title": "L 3,1",
-            "url": "https://www.butex.edu.bd/exam-schedule-b-sc-in-textile-engineering-l-3-t-1-exam-2020/"
-        }
-    ],
-    "qb": [
-        {
-            "title": "👶 Level 1",
-            "url": "https://drive.google.com/drive/folders/1Fu7l9FBq3gdWUKNnTix6RibLvy3e25Ra?usp=sharing"
-        },
-        {
-            "title": "👦 Level 2",
-            "url": "https://drive.google.com/drive/folders/1KZvgEL3f1kDY54H5Ha218l7yZfPn6jM6?usp=sharing"
-        },
-        {
-            "title": "👨‍🦰 Level 3",
-            "url": "https://drive.google.com/drive/folders/1mbygPQPSEDkP6NoRxJxJATWI8aBgzxsZ?usp=sharing"
-        },
-        {
-            "title": "🧑‍🎓 Level 4",
-            "url": "https://drive.google.com/drive/folders/17QQ6mXUYe3FL7sf4VMzdBBkRbJAId0VT?usp=sharing"
-        }
-    ],
-    "alerts": {
-        "notesSectionAlert": "false",
-        "labsSectionAlert": "false",
-        "noticeSectionAlert": "false",
-        "gamesSectionAlert": "false"
+    "secondary": {
+      "live_api_url": "https://api.butexnotebot.com/",
+      "note_api_url": "https://api.butexnotebot.com/app/notes",
+      "lab_api_url": "https://api.butexnotebot.com/app/labs"
     }
+  },
+  "inMemoryOf": [
+    {
+      "name": "Arpita Banik",
+      "about": "WPE-44",
+      "diedIn": 2023
+    },
+    {
+      "name": "Jannatul Nayim Joy",
+      "about": "ESE-45",
+      "diedIn": 2022
+    },
+    {
+      "name": "Fahamul Fahim(Leon)",
+      "about": "YE-44",
+      "diedIn": 2021
+    },
+    {
+      "name": "Faisal Ahamed",
+      "about": "WPE-44",
+      "diedIn": 2021
+    },
+    {
+      "name": "Abhishek Paul",
+      "about": "WPE-45",
+      "diedIn": 2021
+    },
+    {
+      "name": "Sajib Sagor",
+      "about": "TMDM-43",
+      "diedIn": 2019
+    }
+  ],
+  "sponsoredContent": [
+    {
+      "title": "মানবিক সাহায্যের আবেদন ",
+      "description": "মেধাবী শিক্ষার্থী ইব্রাহীম শেখ, চতুর্থ বর্ষের (IPE-46 ব্যাচ) ছাত্র, হঠাৎ করেই জীবন-মৃত্যুর সন্ধিক্ষণে দাঁড়িয়ে",
+      "url": "https://www.facebook.com/story.php?story_fbid=1194467449093346&id=100055903053838&rdid=fCstxYedtzesAd2c#",
+      "imgUrl": "https://i.postimg.cc/xkMQSDTx/help-1.png",
+      "type": "alerts",
+      "accentColor": ["000000", "1e2227", "1e2227"]
+    },
+    {
+      "title": "Solidarity with Palestine ✊",
+      "description": "We stand in solidarity with our brothers and sister of Palestine #FreePalestine",
+      "url": "https://www.facebook.com/palestinembassydhaka/",
+      "imgUrl": "https://i.postimg.cc/YCZ1JNqs/palestine-round.png",
+      "type": "alerts",
+      "accentColor": ["000000", "1e2227", "1e2227"]
+    },
+    {
+      "title": "Rate NoteBOT",
+      "description": "Tap on this card & rate your beloved notebot on google play store, a rating of 5 stars will mean a lot to the team 😁",
+      "url": "https://play.google.com/store/apps/details?id=com.hawkers.notebot",
+      "imgUrl": "https://i.postimg.cc/WpBBLKCD/ogvDLfJ.png",
+      "type": "promotion",
+      "accentColor": ["ff4500", "ff3737", "ff3737"]
+    },
+    {
+      "title": "Bondi Pathshala",
+      "description": "BUTEX NoteBOT is now powered by Bondi Pathshala 😀",
+      "url": "https://www.facebook.com/bp.liveclass",
+      "imgUrl": "https://i.postimg.cc/vTVCxLgH/fQZqOwW.png",
+      "type": "sponsored",
+      "accentColor": ["2093bf", "2575d0", "313ca7"]
+    },
+    {
+      "title": "Promote Your Business",
+      "description": "Use Notebot to promote your business, tap on this card to learn more",
+      "url": "https://forms.gle/ZmbccBxEd4GDadKt9",
+      "imgUrl": "https://i.postimg.cc/mgRKh9bB/hmWfMOK.png",
+      "type": "alerts",
+      "accentColor": ["d60000", "c6242c", "a41e25"]
+    }
+  ],
+  "communities": [
+    {
+      "title": "ARTex",
+      "description": "Each and every person having creative & new ideas is an artist. And ARTex stands for ARTISTS of BUTEX. It's not a club, It's a family",
+      "url": "https://www.facebook.com/ARTex.BUTEX/",
+      "imgUrl": "https://scontent-sin6-3.xx.fbcdn.net/v/t1.6435-9/53034513_553787625116258_529961971773079552_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeGkI9J3F6o4gULfteS5hvdzlEUCr2cVE9-URQKvZxUT3zFTOSKYbTdzeuYnDV9_cNCDvD1hOi13mWZqIxlbl5zt&_nc_ohc=NWdkAaLumCsAX-CVXP2&_nc_ht=scontent-sin6-3.xx&oh=00_AT9h5kroAQ322lI3v8rpusyptfzGAnVGMfTzifTMLGfuQQ&oe=6264AC90",
+      "category": ["Arts", "Cultural"]
+    },
+    {
+      "title": "বুটেক্স সাহিত্য সংসদ",
+      "description": "বই পড়েন এমন ভাই বোন যারা আছেন অথবা প্রয়োজনীয় বই খুজে না পাওয়াতে যাদের আর বই পড়া হয়ে উঠছে না তারা যোগ দিতে পারেন আমাদের সাথে।",
+      "url": "https://www.facebook.com/groups/1572484283057629/",
+      "imgUrl": "https://scontent.fdac135-1.fna.fbcdn.net/v/t1.6435-9/49844990_932190493653352_3449884643166257152_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=b9115d&_nc_eui2=AeGo_YftmkKBUfT6hCJ3f3C5Ga1C4ohLu2QZrULiiEu7ZDYQwzY06iqOgHQyUKHk0CnxAgQyAHfFn5q6MedQDnhH&_nc_ohc=24C2GYt3fnkAX8_ArRg&_nc_ht=scontent.fdac135-1.fna&oh=00_AT_tOutNug8tTgSRkTCiDZgZ5yhnY8cAJ7KHy1Z60LKLnw&oe=621754FC",
+      "category": ["Books", "Cultural"]
+    },
+    {
+      "title": "BUTEX Business Club",
+      "description": "BUTEX Business Club is on a mission to foster entrepreneurship and leadership through the development of the students of BUTEX.",
+      "url": "https://www.facebook.com/BUTEX.Business.club",
+      "imgUrl": "https://scontent-sin6-4.xx.fbcdn.net/v/t31.18172-8/26961561_733136860219200_5230021714703533332_o.jpg?_nc_cat=101&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeF6EF5WNXSBjrYV1_TO37GRRhg359XI1kxGGDfn1cjWTEAdEBlhVnsji2lq4pHNo0e-yy7tc6gXRL6M5ozIGq3Q&_nc_ohc=Bj00J_oChAcAX-DkHQm&_nc_ht=scontent-sin6-4.xx&oh=00_AT-abyzLVhr1P4KxIePIiBJLiEdVMN8xEraBeaMB5lhRNQ&oe=6263C0E5",
+      "category": ["Carrier", "Business"]
+    },
+    {
+      "title": "BUTEX IT Society",
+      "description": "A place to learn & let others learn from you(BUTEX)",
+      "url": "https://www.facebook.com/groups/387245905534464",
+      "imgUrl": "https://scontent-sin6-4.xx.fbcdn.net/v/t1.6435-9/101964794_2988736834577010_8323770649713573888_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=8631f5&_nc_eui2=AeG14r_Vn6Zi12GEKiEkr3dLD7bx42UD-7kPtvHjZQP7uS79Tx-rCQFOhQXVhZA0u5DZyN-yRY6423GDgCy11chF&_nc_ohc=-oy4fCGLkuUAX8Nn6sq&_nc_ht=scontent-sin6-4.xx&oh=00_AT_BWf9gCxmYAnTm_imQUSaBlb4xZ8x6Yhzu4IB7kJwH9A&oe=6265CFC0",
+      "category": ["IT", "Programming"]
+    },
+    {
+      "title": "BUTEX Debating Club",
+      "description": "The organization of logic warriors from BUTex premises",
+      "url": "https://www.facebook.com/BUTexDC",
+      "imgUrl": "https://scontent-sin6-2.xx.fbcdn.net/v/t39.30808-6/244479837_4514642791920524_694842214870335322_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeFPSgK9YBX3mm0H9tlVBf0RREbYeXPIswJERth5c8izAjDuw4qxnK3JkhNtx8HNL2PC-rPqjiFJ7eNxQ_GFz93x&_nc_ohc=8X8UuGRHTP0AX9G2RDl&_nc_ht=scontent-sin6-2.xx&oh=00_AT93rcTW42AdjVTc8lzKLeDwXJh93KtkqyKoGKs3G1CPhQ&oe=6244142C",
+      "category": ["debate"]
+    },
+    {
+      "title": "BUTEX Movie & Series Freaks",
+      "description": "A Place For BUTExians To Share Their Movie,TV-Series,Anime Related Experiences",
+      "url": "https://www.facebook.com/groups/562492624242545",
+      "imgUrl": "https://scontent-sin6-2.xx.fbcdn.net/v/t1.6435-9/125221469_3457164921067530_6385637221430471721_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=8631f5&_nc_eui2=AeH3RfDasGq_DQ-U4S0pFrZjLNuewpZneuos257Clmd66hZwD6OIZpnBzTHWp1qXFQPZE0CgJ694LEMcO7-zRLSf&_nc_ohc=GorjbbAKJIcAX9EHf74&_nc_ht=scontent-sin6-2.xx&oh=00_AT-rVQYAziWiWmfJB3LR0nwidzNH6k7F8Wb82LV2DqU51g&oe=62651447",
+      "category": ["movie", "series"]
+    },
+    {
+      "title": "বাধন বুটেক্স",
+      "description": "বাঁধন টেক্সটাইল বিশ্ববিদ্যালয় ইউনিট’ বাংলাদেশ টেক্সটাইল বিশ্ববিদ্যালয়ের ঐতিহ্যবাহী এবং মানব সেবায় নিয়োজিত একটি স্বেচ্ছায় রক্তদাতাদের সংগঠন",
+      "url": "https://www.facebook.com/groups/badhanbutex",
+      "imgUrl": "https://scontent-sin6-4.xx.fbcdn.net/v/t39.30808-6/261990117_2994867787420356_8723858499432824084_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=8631f5&_nc_eui2=AeEFI3aJh67omUjVzlmreE12DEnxGneTRKkMSfEad5NEqeaVDeNuGRSQy-ehHTjxuDQdOG2x5P5Bwx4oR5dWMCh4&_nc_ohc=7ebUcqXso2UAX9YNmWd&_nc_oc=AQmC4NJD3BzpoMvNuEW7xB3KA2zdLBcbWLHmJgYKRyZx3E6oGbUP9lw6TEQlqKNzpqw&_nc_ht=scontent-sin6-4.xx&oh=00_AT_R5XwFqtoKThX_xFNVFJdtR8Ab0aocKm5yR2YFAcxd_A&oe=62433CFB",
+      "category": ["blood donation", "volunteer"]
+    }
+  ],
+  "tools": [
+    {
+      "title": "Count Koto",
+      "url": "https://play.google.com/store/apps/details?id=newcampusa.newproject.countkoto",
+      "imgUrl": "https://i.postimg.cc/Vsrxh1GQ/65RqoYp.png"
+    },
+    {
+      "title": "Cloud Lib",
+      "url": "https://triptoafsin.github.io/Cloud-Lib-React",
+      "imgUrl": "https://thumbs2.imgbox.com/b3/9a/ktktGZUj_t.png"
+    }
+  ],
+  "results": [
+    {
+      "date": "9-4-23",
+      "title": "L 4, T1",
+      "url": "https://www.butex.edu.bd/result-of-bsc-in-textile-engineering-l-4-t-1-exam-2021/"
+    },
+    {
+      "date": "28-3-23",
+      "title": "L 3, T1",
+      "url": "https://www.butex.edu.bd/wp-content/uploads/2023/03/Result-of-BSc-in-Textile-Engineering-L-3-T-1-Exam-2021-Session2020-21.pdf"
+    },
+    {
+      "date": "16-3-23",
+      "title": "L 1, T2",
+      "url": "https://www.butex.edu.bd/result-of-bsc-in-textile-engineering-l-1-t-2-exam-2021/"
+    },
+    {
+      "date": "1-3-23",
+      "title": "L 2, T1",
+      "url": "https://www.butex.edu.bd/wp-content/uploads/2023/03/Result-of-BSc-in-Textile-Engineering-L-2-T-1-Exam-2021.pdf"
+    },
+    {
+      "date": "23-1-22",
+      "title": "Academic L1, T2(Affiliated)",
+      "url": "https://www.butex.edu.bd/wp-content/uploads/2022/01/Result-of-Affiliated-Colleges-B.Sc_.-in-Textile-Engineering-L-1-T-2-Exam-2019.pdf"
+    },
+    {
+      "date": "19-11-21",
+      "title": "Admission Test",
+      "url": "https://drive.google.com/file/d/1kzUBfCeW_iX4iQeMYQnEglhjAqHfRX6P/view"
+    }
+  ],
+  "routines": [
+    {
+      "date": "25-2-23",
+      "type": "class schedule",
+      "title": "L 3,2",
+      "url": "https://www.butex.edu.bd/wp-content/uploads/2023/02/Class-Schedule-of-B.-Sc.-in-Textile-Engineering-Level-3-Term-2.pdf"
+    },
+    {
+      "date": "25-2-23",
+      "type": "class schedule",
+      "title": "L 2,1",
+      "url": "https://www.butex.edu.bd/wp-content/uploads/2023/02/Class-Schedule-of-B.-Sc.-in-Textile-Engineering-Level-2-Term-1.pdf"
+    },
+    {
+      "date": "21-12-22",
+      "type": "class schedule",
+      "title": "L 1, T1",
+      "url": "https://www.butex.edu.bd/wp-content/uploads/2022/12/Download-Class-Schedule-of-B.-Sc.-in-Textile-Engineering-Level-1-Term-1.pdf"
+    },
+    {
+      "date": "9-2-2022",
+      "type": "exam",
+      "title": "L 2,1",
+      "url": "https://www.butex.edu.bd/exam-schedule-b-sc-in-textile-engineering-l-2-t-1-exam-2020/"
+    },
+    {
+      "date": "9-2-2022",
+      "type": "exam",
+      "title": "L 3,1",
+      "url": "https://www.butex.edu.bd/exam-schedule-b-sc-in-textile-engineering-l-3-t-1-exam-2020/"
+    }
+  ],
+  "qb": [
+    {
+      "title": "👶 Level 1",
+      "url": "https://drive.google.com/drive/folders/1Fu7l9FBq3gdWUKNnTix6RibLvy3e25Ra?usp=sharing"
+    },
+    {
+      "title": "👦 Level 2",
+      "url": "https://drive.google.com/drive/folders/1KZvgEL3f1kDY54H5Ha218l7yZfPn6jM6?usp=sharing"
+    },
+    {
+      "title": "👨‍🦰 Level 3",
+      "url": "https://drive.google.com/drive/folders/1mbygPQPSEDkP6NoRxJxJATWI8aBgzxsZ?usp=sharing"
+    },
+    {
+      "title": "🧑‍🎓 Level 4",
+      "url": "https://drive.google.com/drive/folders/17QQ6mXUYe3FL7sf4VMzdBBkRbJAId0VT?usp=sharing"
+    }
+  ],
+  "alerts": {
+    "notesSectionAlert": "false",
+    "labsSectionAlert": "false",
+    "noticeSectionAlert": "false",
+    "gamesSectionAlert": "false"
+  }
 }
