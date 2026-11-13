@@ -64,12 +64,20 @@
       "accentColor": ["000000", "1e2227", "1e2227"]
     },
     {
-      "title": "Rate NoteBOT",
-      "description": "Tap on this card & rate your beloved notebot on google play store, a rating of 5 stars will mean a lot to the team 😁",
-      "url": "https://play.google.com/store/apps/details?id=com.hawkers.notebot",
-      "imgUrl": "https://i.postimg.cc/WpBBLKCD/ogvDLfJ.png",
-      "type": "promotion",
-      "accentColor": ["ff4500", "ff3737", "ff3737"]
+      "title": "Support NoteBot on Patreon",
+      "description": "Free for every BUTEX student since 2018. Become a patron and help pay for the servers.",
+      "url": "https://www.patreon.com/c/triptex",
+      "imgUrl": "https://i.postimg.cc/zDVtCFbg/62-carousel-patreon.png",
+      "type": "support",
+      "accentColor": ["e8384f", "d42f45", "b8283b"]
+    },
+    {
+      "title": "Buy NoteBot a cup of cha",
+      "description": "Tip in taka on SupportKori, as much as you can. It keeps NoteBot free for everyone.",
+      "url": "https://www.supportkori.com/triptex",
+      "imgUrl": "https://i.postimg.cc/G9nt5phT/63-carousel-supportkori.png",
+      "type": "support",
+      "accentColor": ["d9480f", "c2410c", "9a3412"]
     },
     {
       "title": "Promote Your Business",
